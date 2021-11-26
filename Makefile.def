@@ -38,7 +38,7 @@
 GCC  = __GCC__
 FLEX = __FLEX__
 EXE  = __EXE__
-OS_SIM_LIBS = __OS_SIM_LIBS__
+OS_SIM_LIBS =
 RM   = __RM__
 CP   = __CP__
 MKDIR = __MKDIR__
